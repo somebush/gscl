@@ -1,3 +1,6 @@
+# Game Stage Condition Library
+
+
 Game Stage Condition Library (GSCL) is a lightweight library for developers.
 
 The library adds a new method to your mods: isGameStageNearby(Entity entity, List<String> stages). 'entity' is a mob near which you need to check for a player with one or more 'stages'.
